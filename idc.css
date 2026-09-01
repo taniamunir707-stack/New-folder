@@ -1,0 +1,24 @@
+body{
+    background-color: linen;
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: center;
+     padding: 30px;
+}
+h2{
+    color: brown;
+    margin-top:25px;
+}
+hr{
+border-color: black;
+}
+abbr{
+    color: blueviolet;
+}
+blockquote{
+    border-left: 4px solid yellow;
+    padding-left: 15px;
+    display: inline;
+    text-align: left;
+    color: brown;
+    font-style:italic ;
+}
