@@ -1,0 +1,10 @@
+body {
+    background-color: linen;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+h2 {
+    color: brown;
+    margin-top: 25px;
+}
